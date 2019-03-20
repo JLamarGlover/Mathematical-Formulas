@@ -1,0 +1,7 @@
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\QuadEquations\QuadEquations\bin\Debug\QuadEquations.exe.config
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\QuadEquations\QuadEquations\bin\Debug\QuadEquations.exe
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\QuadEquations\QuadEquations\bin\Debug\QuadEquations.pdb
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\QuadEquations\QuadEquations\obj\Debug\QuadEquations.csprojAssemblyReference.cache
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\QuadEquations\QuadEquations\obj\Debug\QuadEquations.csproj.CoreCompileInputs.cache
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\QuadEquations\QuadEquations\obj\Debug\QuadEquations.exe
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\QuadEquations\QuadEquations\obj\Debug\QuadEquations.pdb

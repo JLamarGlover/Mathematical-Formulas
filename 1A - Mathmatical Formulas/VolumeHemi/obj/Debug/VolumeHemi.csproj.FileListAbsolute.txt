@@ -1,0 +1,7 @@
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\VolumeHemi\bin\Debug\VolumeHemi.exe.config
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\VolumeHemi\bin\Debug\VolumeHemi.exe
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\VolumeHemi\bin\Debug\VolumeHemi.pdb
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\VolumeHemi\obj\Debug\VolumeHemi.csprojAssemblyReference.cache
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\VolumeHemi\obj\Debug\VolumeHemi.csproj.CoreCompileInputs.cache
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\VolumeHemi\obj\Debug\VolumeHemi.exe
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\VolumeHemi\obj\Debug\VolumeHemi.pdb

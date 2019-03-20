@@ -1,0 +1,14 @@
+C:\Users\LamarGlover\source\repos\AreaofTriangle\AreaofTriangle\bin\Debug\AreaofTriangle.exe.config
+C:\Users\LamarGlover\source\repos\AreaofTriangle\AreaofTriangle\bin\Debug\AreaofTriangle.exe
+C:\Users\LamarGlover\source\repos\AreaofTriangle\AreaofTriangle\bin\Debug\AreaofTriangle.pdb
+C:\Users\LamarGlover\source\repos\AreaofTriangle\AreaofTriangle\obj\Debug\AreaofTriangle.csprojAssemblyReference.cache
+C:\Users\LamarGlover\source\repos\AreaofTriangle\AreaofTriangle\obj\Debug\AreaofTriangle.csproj.CoreCompileInputs.cache
+C:\Users\LamarGlover\source\repos\AreaofTriangle\AreaofTriangle\obj\Debug\AreaofTriangle.exe
+C:\Users\LamarGlover\source\repos\AreaofTriangle\AreaofTriangle\obj\Debug\AreaofTriangle.pdb
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\AreaofTriangle\AreaofTriangle\bin\Debug\AreaofTriangle.exe.config
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\AreaofTriangle\AreaofTriangle\bin\Debug\AreaofTriangle.exe
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\AreaofTriangle\AreaofTriangle\bin\Debug\AreaofTriangle.pdb
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\AreaofTriangle\AreaofTriangle\obj\Debug\AreaofTriangle.csprojAssemblyReference.cache
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\AreaofTriangle\AreaofTriangle\obj\Debug\AreaofTriangle.csproj.CoreCompileInputs.cache
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\AreaofTriangle\AreaofTriangle\obj\Debug\AreaofTriangle.exe
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\AreaofTriangle\AreaofTriangle\obj\Debug\AreaofTriangle.pdb

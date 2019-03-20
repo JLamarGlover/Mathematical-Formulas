@@ -1,0 +1,11 @@
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\Mathmatical Formulas\bin\Debug\netcoreapp2.1\Mathmatical Formulas.deps.json
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\Mathmatical Formulas\bin\Debug\netcoreapp2.1\Mathmatical Formulas.runtimeconfig.json
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\Mathmatical Formulas\bin\Debug\netcoreapp2.1\Mathmatical Formulas.runtimeconfig.dev.json
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\Mathmatical Formulas\bin\Debug\netcoreapp2.1\Mathmatical Formulas.dll
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\Mathmatical Formulas\bin\Debug\netcoreapp2.1\Mathmatical Formulas.pdb
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\Mathmatical Formulas\obj\Debug\netcoreapp2.1\Mathmatical Formulas.csprojAssemblyReference.cache
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\Mathmatical Formulas\obj\Debug\netcoreapp2.1\Mathmatical Formulas.csproj.CoreCompileInputs.cache
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\Mathmatical Formulas\obj\Debug\netcoreapp2.1\Mathmatical Formulas.AssemblyInfoInputs.cache
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\Mathmatical Formulas\obj\Debug\netcoreapp2.1\Mathmatical Formulas.AssemblyInfo.cs
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\Mathmatical Formulas\obj\Debug\netcoreapp2.1\Mathmatical Formulas.dll
+C:\Users\LamarGlover\Desktop\Exercises\Jan 12 Exercise 1A\1A - Mathmatical Formulas\Mathmatical Formulas\obj\Debug\netcoreapp2.1\Mathmatical Formulas.pdb
